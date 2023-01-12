@@ -1,5 +1,5 @@
-# ADBD_Proyecto_OficinaTurismo
-Proyecto de creación de una base de datos - Oficinas de Turismo en Tenerife
+# ADBD_Proyecto_AgenciaViajes
+Proyecto de creación de una base de datos - Agencias de Viaje en Tenerife
 
 ## Componentes
 - Eduardo González Pérez - alu0101319001
